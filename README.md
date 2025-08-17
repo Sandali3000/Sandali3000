@@ -76,12 +76,7 @@
 ---
 
 <h3 align="center">Activity & Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandali3000&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="sandali3000" />
-</p> 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandali3000&show_icons=true&locale=en&cache_seconds=1800" alt="sandali3000" />
-</p>
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandali3000&show_icons=true&locale=en&layout=compact" alt="sandali3000" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandali3000&show_icons=true&locale=en" alt="sandali3000" /></p>
 
