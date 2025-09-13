@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sandali3000&label=Profile%20views&color=0e75b6&style=flat" alt="sandali3000" />
 </p>
-<p align="left">  🌱 I’m currently learning <strong>React.js</strong></p>
+<p align="left">  🌱 Eager to learn, grow, and create innovative projects that inspire and delight.</strong></p>
 <p align="left">  📫 How to reach me: <strong>arenawickramasinghe@gmail.com</strong></p>
 
 ---
