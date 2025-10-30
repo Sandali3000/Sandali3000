@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  I'm Sandali Wickramasinghe</h1>
 <h3 align="center">Passionate about technology, coding, and research</h3>
-<p align="center"><img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/fe0fd1b92b77bbfcae0c0eb3bbf4a7484ba9231bbd37c12171b8938600a189ea/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313331343437352f73637265656e73686f74732f333033313336382f6d652e676966"></p>
+<p align="center"><img width="1507" height="472" alt="image" src="https://github.com/user-attachments/assets/8003e01a-88bd-4387-8606-833f763fb731" />
+</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sandali3000&label=Profile%20views&color=0e75b6&style=flat" alt="sandali3000" />
 </p>
